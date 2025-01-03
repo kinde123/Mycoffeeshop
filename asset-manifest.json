@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Mycoffeeshop/static/css/main.9baee5f7.css",
-    "main.js": "/Mycoffeeshop/static/js/main.84fd6497.js",
+    "main.css": "/Mycoffeeshop/static/css/main.69e83d08.css",
+    "main.js": "/Mycoffeeshop/static/js/main.f265dec0.js",
     "static/js/453.e3bcbf64.chunk.js": "/Mycoffeeshop/static/js/453.e3bcbf64.chunk.js",
     "static/media/keffa.jpg": "/Mycoffeeshop/static/media/keffa.edaafcf3f1d13c9898b5.jpg",
     "static/media/harar.jpg": "/Mycoffeeshop/static/media/harar.b0c2ad0b9d205e906c9e.jpg",
     "static/media/yirga.jpg": "/Mycoffeeshop/static/media/yirga.2ba1d0489bc044950c61.jpg",
     "static/media/sidama.jpg": "/Mycoffeeshop/static/media/sidama.492ee01c4ff2348f8fb3.jpg",
     "static/media/jimma.jpg": "/Mycoffeeshop/static/media/jimma.e74e4927d49fa169815e.jpg",
-    "static/media/logo2.jpeg": "/Mycoffeeshop/static/media/logo2.8a32f53c4d0394378e4a.jpeg",
     "static/media/hero.jpeg": "/Mycoffeeshop/static/media/hero.31c7e4c9414e80b1a682.jpeg",
+    "static/media/yene.jpeg": "/Mycoffeeshop/static/media/yene.43ffafaa1c0edbdcecfd.jpeg",
     "static/media/durame.png": "/Mycoffeeshop/static/media/durame.d6c299cbdc1c1c5b59ee.png",
     "index.html": "/Mycoffeeshop/index.html",
-    "main.9baee5f7.css.map": "/Mycoffeeshop/static/css/main.9baee5f7.css.map",
-    "main.84fd6497.js.map": "/Mycoffeeshop/static/js/main.84fd6497.js.map",
+    "main.69e83d08.css.map": "/Mycoffeeshop/static/css/main.69e83d08.css.map",
+    "main.f265dec0.js.map": "/Mycoffeeshop/static/js/main.f265dec0.js.map",
     "453.e3bcbf64.chunk.js.map": "/Mycoffeeshop/static/js/453.e3bcbf64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9baee5f7.css",
-    "static/js/main.84fd6497.js"
+    "static/css/main.69e83d08.css",
+    "static/js/main.f265dec0.js"
   ]
 }
